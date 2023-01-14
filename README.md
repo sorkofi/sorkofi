@@ -18,7 +18,13 @@
   
   ### Front-end React web developer and C++/Rust enthusiast. <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="48px" />
   
-  <div>
+  <br />
+  <br />
+  <br />
+  
+ --
+  
+  <div class="skills">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
@@ -30,9 +36,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
   
+  <br />
+  <br />
+  <br />
   
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sorkofi&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sorkofi&theme=dracula)](https://git.io/streak-stats)
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorkofi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sorkofi&theme=dracula)](https://git.io/streak-stats)
