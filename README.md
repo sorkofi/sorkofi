@@ -19,6 +19,10 @@
   <br />
   <br />
   
+  `# Personal Projects`<br />
+  Github profile viewer web app made using ReactJS and deployed with my custom-made actions configurations.
+  https://sorkofi.github.io/github-profile-viewer/
+  
  --
   
   `#Tools and Skills`
