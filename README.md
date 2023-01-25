@@ -21,8 +21,8 @@
   
   `# Personal Projects | Projetos Pessoais`<br />
   Github profile viewer web app made using ReactJS and deployed with my custom-made actions configurations.<br />
-  <sub>Aplicação Web de visualização de perfis do GitHub desenvolvida do zero utilizando ReactJS e feita deploy com meu workflow customizado no Actions.</sub>
-  https://sorkofi.github.io/github-profile-viewer/
+  <sub>Aplicação Web de visualização de perfis do GitHub desenvolvida do zero utilizando ReactJS e feita deploy com meu workflow customizado no Actions.</sub> <br/>
+  (https://sorkofi.github.io/github-profile-viewer/)
   
  --
   
