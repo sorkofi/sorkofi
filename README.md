@@ -13,19 +13,20 @@
   
   ***
   
-  ### Front-end React web developer and C++/Rust enthusiast. <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="48px" />
+  ### Front-end React web developer and C++/Rust enthusiast. <br /> <sub>Desenvolvedor Web Front-end e entusiasta de C++ e Rust.</sub> <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="48px" />
   
   <br />
   <br />
   <br />
   
-  `# Personal Projects`<br />
-  Github profile viewer web app made using ReactJS and deployed with my custom-made actions configurations.
+  `# Personal Projects | Projetos Pessoais`<br />
+  Github profile viewer web app made using ReactJS and deployed with my custom-made actions configurations.<br />
+  <sub>Aplicação Web de visualização de perfis do GitHub desenvolvida do zero utilizando ReactJS e feita deploy com meu workflow customizado no Actions.</sub>
   https://sorkofi.github.io/github-profile-viewer/
   
  --
   
-  `#Tools and Skills`
+  `# Tools and Skills | Habilidades`
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="32"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="32"/>&nbsp;
